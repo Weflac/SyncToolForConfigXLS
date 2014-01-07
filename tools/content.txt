@@ -1,0 +1,2 @@
+﻿物品类型表(info_goods)
+资源类型表(info_resource)
